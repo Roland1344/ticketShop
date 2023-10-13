@@ -13,9 +13,14 @@ header{
     align-items: center;
     color:white;
     text-shadow: 1px 1px 3px #000;
-}
+}/*
 video{
     width: 50vw;
+    border-radius: 10px;
+}*/
+iframe{
+    width: 30vh;
+    height: 100%;
     border-radius: 10px;
 }
 .myContainer{
